@@ -1,0 +1,13 @@
+Architecture:BaseMIPSR2000
+OS:LinuxBase
+Application:txt_reader.o
+You know english and can read this
+You are reading a archived file
+stored at 28/Apr/2014 from India
+
+The actual data is
+
+¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ­ ® ¯ °
+± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À
+Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð
+Ñ Ò Ó Ô Õ Ö × Ø

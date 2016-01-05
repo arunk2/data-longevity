@@ -1,0 +1,9 @@
+Architecture:BaseMIPSR2000
+OS:LinuxBase
+Application:txt_reader.o
+You know english and can read this
+You are reading a archived file
+stored at 28/Apr/2014 from India
+
+Tamil Language and literature:
+Tamils have strong attachment to the Tamil language, which is often venerated in literature as "Tamilannai", "the Tamil mother".[1] It has historically been, and to large extent still is, central to the Tamil identity.[2] Like the other languages of South India, it is a Dravidian language, unrelated to the Indo-European languages of northern India. As per recent Historical Research, This language is the oldest in the world(20000 Years)and also a living language, the source of other languages of Asia, especially Sanskrit, Sanskrit is the source of Western Languages. , and preserves many features of Proto-Dravidian, though modern-day spoken Tamil in Tamil Nadu, freely uses loanwords from Sanskrit and English.[3] Tamil literature is of considerable antiquity, and is recognised as a classical language in India. Classical Tamil literature, which ranges from lyric poetry to works on poetics and ethical philosophy, is remarkably different from contemporary and later literature in other Indian languages, and represents the oldest body of secular literature in South Asia.
