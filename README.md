@@ -4,7 +4,7 @@
       -Jeff Rothenberg, scientist and specialist in digital longevity
       
 # Problem Statement – Data Longevity:
-##Why Data Longevity?
+## Why Data Longevity?
  - Availability of data (after 10, 50, 100, 1000 years)
  - Big data –3Vs (Variety, Volume, Velocity)
  - Availability of the data is jeopardized
