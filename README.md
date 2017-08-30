@@ -1,7 +1,8 @@
 # Motivation:
- - 'Digital information lasts forever or five years, whichever comes first'
- - 'Old bit streams never die -they just become unreadable'
-      -Jeff Rothenberg, scientist and specialist in digital longevity
+Follwing statements from research papers of a course 'Storage Systems' @ IISc Bangalore is the starting of this project.
+- 'Digital information lasts forever or five years, whichever comes first'
+- 'Old bit streams never die -they just become unreadable'
+     - By Jeff Rothenberg, scientist and specialist in digital longevity
       
 # Problem Statement – Data Longevity:
 ## Why Data Longevity?
