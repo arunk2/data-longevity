@@ -38,6 +38,19 @@ There are two critical reasons for this situation
 - Technological obsolescence of hardware/software interpreting digital data.
 
 
+## What should digital preservation mean?
+
+In the definition medium from American Library Association (ALA), we have the following statement 
+- "The goal of digital preservation is the accurate rendering of authenticated content over time."
+
+In digital preservation paradigm – one of the most difficult challenges is to maintain the interpretability of data across changing technologies. 
+
+A sequence of bits is meaningless if it cannot be decoded and transformed into some meaningful representation. 
+**Example: Documents stored as Word Star, a 1978 format, are as good as unreadable today**. There has been significant amount of research work happened over the past 2 decades to address this problem. All of the long term access strategies proposed can be broadly categorized under 
+- Migration strategy
+- Emulation strategy
+
+
 ## Sources:
 - http://en.wikipedia.org/wiki/Digital_dark_age
 - http://en.wikipedia.org/wiki/List_of_archive_formats
